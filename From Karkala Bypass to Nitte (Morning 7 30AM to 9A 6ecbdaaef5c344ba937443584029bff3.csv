@@ -1,7 +1,7 @@
 ﻿Time,Name,Type,Reaches Nitte at
 07:41,Rajarajeshwari,Express,07:50
-07:45,Kanthi,Local,08:00
-07:50,Vishal,Express,08:00
+07:45,Kanthi,Local,07:59
+07:50,Vishal,Express,07:59
 07:52,Mercy,Local,08:07
 08:00,Vishal,Express,08:10
 07:58,Naveen,Local,08:12
@@ -10,7 +10,7 @@
 08:15,Vishal,Express,08:25
 08:25,Reshma,Express,08:35
 08:30,Sangam,Local,08:45
-08:35,"Vishal ",Express,08:47
+08:35,Vishal,Express,08:47
 08:48,Vishal,Express,09:02
 08:59,Annapoorneshwari,Express,09:10
 09:00,Jeevan,Local,09:15
