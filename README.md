@@ -5,4 +5,5 @@ This repository stores CSV files containing the bus timings for Nitte which has 
 The CSV files are updated along with the Notion website to ensure accuracy of the data, and are organized in an easy-to-use format.
 
 Last Updated: 5 April, 2023
-Total entries: 166
+
+Total entries: 167
